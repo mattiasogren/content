@@ -1,3 +1,4 @@
+[GDPR_SmartThings_File Description_en_US_v1.1.13.pdf](https://github.com/mdn/content/files/10502226/GDPR_SmartThings_File.Description_en_US_v1.1.13.pdf)
 ---
 title: Navigator.appVersion
 slug: Web/API/Navigator/appVersion
